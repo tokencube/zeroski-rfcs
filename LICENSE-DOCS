@@ -1,0 +1,37 @@
+RFC Text License
+================
+
+The RFC text in this repository — everything under `rfcs/`, plus the
+process documents (`README.md`, `CONTRIBUTING.md`, `0000-template.md`,
+`MAINTAINERS.md`, `CODE_OF_CONDUCT.md`, `CHANGELOG.md`) — is licensed
+under the Creative Commons Attribution-ShareAlike 4.0 International
+License (CC-BY-SA-4.0).
+
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+In short:
+
+- You may share and adapt the RFC text, for any purpose, including
+  commercially.
+- You must give appropriate credit, link to this license, and indicate
+  if changes were made.
+- If you build upon the material, you must distribute your contributions
+  under the same license.
+
+Supporting code, tooling, and configuration in this repository — the DCO
+workflow, PR and issue templates, CODEOWNERS, `.gitignore` — is licensed
+under MIT OR Apache-2.0 (your choice), matching the code-license terms
+of the broader Zero ecosystem. See [LICENSE-MIT](LICENSE-MIT) and
+[LICENSE-APACHE](LICENSE-APACHE).
+
+By submitting a contribution (RFC text, PR discussion, issue comment)
+you agree that:
+
+- RFC text contributions are licensed under CC-BY-SA-4.0.
+- Code and tooling contributions are dual-licensed under MIT OR
+  Apache-2.0.
+
+This dual split mirrors the Rust RFC process and the Rust project's
+approach to licensing technical specifications alongside implementation
+code.
